@@ -1,2 +1,2 @@
-# cv-html-css-fiap
-Repositório para conter o cv em português do trabalho da FIAP
+# CV em HTML e CSS
+Repositório com o cv em português da Atividade 1
